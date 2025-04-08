@@ -19,7 +19,7 @@ Dynamically loads and displays content from stored files.
 #### Responsive Design:
 Ensures a smooth experience across all devices (desktop, tablet, or mobile).
 ## Technologies Used
-#### Framework: 
+### Framework: 
 Django (Python-based web framework)
 ### Frontend: 
 HTML, CSS, Javascript (for styling and responsiveness)
