@@ -1,6 +1,6 @@
-# Django - blog website
+# Django -Blog website
 
-## overview
+## Overview
 Welcome to the Simple Blog Site ,
 
 An Admin Site for managing blog posts (create, update, delete).
